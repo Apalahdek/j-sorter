@@ -45,7 +45,7 @@ const Navbar = ({ children }) => {
               rel="noopener noreferrer"
               sx={{textDecoration: 'none'}}
             >
-              #AurelliaNoHoshi
+              #AdelineOshi
             </MuiLink>
           </Typography>
           <Copyright />
